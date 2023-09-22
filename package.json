@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "repository": "https://github.com/inevitable-dao/dashboard",
-  "author": "Junho Yeo <i@junho.io>",
+  "author": "0xBuns",
   "license": "MPL-2.0",
   "scripts": {
     "build": "turbo run build",
